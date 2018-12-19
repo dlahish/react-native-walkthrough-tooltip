@@ -13,3 +13,5 @@ lcov.info
 
 # Logs
 npm-debug.log
+
+.idea
